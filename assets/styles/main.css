@@ -112,7 +112,24 @@ a {
   z-index: -3;
 }
 @media (max-width: 992px) {
- .hero{
-  display: none;
- }
+  .hero {
+    display: none;
+  }
 }
+footer {
+  margin-top: 30px;
+  background-color: var(--alt-bg);
+}
+
+footer .container {
+  padding: 10px;
+}
+footer .container img {
+  padding: 10px;
+}
+section{
+  margin: 70px 0px;
+}
+
+
+
